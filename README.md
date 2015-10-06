@@ -1,7 +1,7 @@
 # TIY-Resources
 Collection of resources from TIY
 
-Class Notes
+Class Notes <br>
 Resource Guides
 
 
